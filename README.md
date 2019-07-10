@@ -19,6 +19,7 @@ yarn serve
 ## 安装cube第三方模块
 
 插件方式安装cube-ui
+
 ```sh
 vue add cube-ui
   Use post-compile? 后编译，指的是使用源码
